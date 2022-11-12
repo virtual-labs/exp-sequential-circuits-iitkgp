@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "How many flip-flops are in the 7475 IC?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "8"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,33 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which is not an Altera primitive port identifier?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "clk",
+        "b": "ena",
+        "c": "clr",
+        "d": "prn"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "One example of the use of an S-R flip-flop is as a(n):",
+      "answers": {
+        "a": "racer",
+        "b": "astable oscillator",
+        "c": "binary storage register",
+        "d": "transition pulse generator"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
