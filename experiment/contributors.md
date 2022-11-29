@@ -8,7 +8,7 @@
 <b>Discipline | <b> Electronic Engineering 
 :--|:--|
 <b> Lab | <b> **Digital Electronic Circuits**
-<b> Experiment|     <b> **Characterization-of-Digital-Logic-Families**
+<b> Experiment|     <b> **Analysis and Synthesis of Sequential Circuits using Basic Flip Flops**
 
 ### Subject Matter Experts
 <b>Name of Developer | <b> **Prof. Gautam Saha**
