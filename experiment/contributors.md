@@ -1,11 +1,30 @@
-EMPTY
-<!-- Remove all lines above this line before making changes to the file -->
+<b> Experiment|     <b> **Analysis and Synthesis of Sequential Circuits using Basic Flip Flops**
+
 ### Subject Matter Experts
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+<b>Name of Developer | <b> **Prof. Gautam Saha**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **gsaha @ ece.iitkgp.ac.in **
+<b> Department |  **Electronics & Electrical Communication Engineering**
+<b>Webpage| <b> [Web:http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bTmUW]
+
+<b>Name of Developer | <b> **Prof. Indrajit Chakrabarti**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **indrajit@ece.iitkgp.ac.in **
+<b> Department |  **Electronics & Electrical Communication Engineering**
+<b>Webpage| <b> [Web:http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bVmbU]
+
+<b>Name of Developer | <b> **Prof. Achintya Halder**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **achintya@ece.iitkgp.ac.in **
+<b> Department |  **Electronics & Electrical Communication Engineering**
 
 ### Developers
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
+:--|:--|:--|:--|:--|:--|
+1 | **Ramesh Ghosh** |Integration Engineer | Senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+2 | **Sukriti Dhang** | Developer Engineer | Senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+3 | **Prakriti Dhang** |Developer Engineer  | Project Staff Technical | Department of Mechanical Engineering | IIT Kharagpur | 
+4 | **Chandan Mishra** |Integration Engineer | Senior Project assistant | Department of Mechanical Engineering | IIT Kharagpur | 

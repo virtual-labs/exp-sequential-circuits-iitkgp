@@ -1,4 +1,4 @@
-###  Theory 
+## Theory
  <div class="content" id="experiment-article-section-2-content">                            
              Sequential Circuits:&nbsp; The logic circuits whose outputs at any instant of time depend not only on the present input but also
 			 on the past outputs are called sequential circuits.<br /><br />
