@@ -163,6 +163,9 @@ else{
         else if((vcc1.src.match("green")) && (vcc2.src.match("green"))){
             document.getElementById("clk").disabled = false;
             document.getElementById("clkbs").disabled = false;
+            document.getElementById('showalt').style.visibility='hidden';
+            document.getElementById('v1').style.visibility='hidden';
+            document.getElementById('v2').style.visibility='hidden';
          }
       
         else{
