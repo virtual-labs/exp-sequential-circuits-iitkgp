@@ -44,9 +44,7 @@
                              NOTE :: &nbsp;clk, S and R signals are input signals <br />
                              
 <font style="text-decoration:overline"> Q </font> and Q  : Output signals
-                              
-   
- 
+                            
 </div>
                             <div align="center" class="big" style="text-decoration:underline" > J-K Flip-Flop </div>
                             <div align="left">
@@ -128,4 +126,4 @@
                             <img src="images/truth table 1 bit.jpg" />
                              <br />
                             Figure 3:&nbsp;Truth table of a 1 bit fulladder                            
-                        </div>
+   </div>
