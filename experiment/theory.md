@@ -2,6 +2,7 @@
 
 **About the Experiment**
 This experiment enables a student to learn
+
 - How to realize the functionality of sequential circuits using basic flip-flops
 - How to verify the operation of a combinational circuit using flip-flop(D Flip-Flop)
 
