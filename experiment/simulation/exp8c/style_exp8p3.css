@@ -1,0 +1,318 @@
+/*Lab:exp_8_Part3_Flip Flop D flipflop
+	File name: style_exp8p3.css
+    Author:Prakriti Dhang*/
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+/*.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  
+}
+
+/* Clear floats after the columns */
+/*.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}*/
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+/* @media screen and (max-width: 800px) {
+  .column {
+    width: 100%;
+  }
+  .div{
+  width: 100%;
+  }
+ .mimg{
+  width:100%;
+  }
+  .img{
+  width:100%;
+  }
+}*/
+
+
+/*.mimg{
+   
+    width:645px;  /* 645px */
+	
+/*}*/
+
+
+.blink{
+  text-decoration: blink;
+}
+
+
+.blink {
+-webkit-animation: blink 2s linear infinite;	
+ color:red;
+ 
+}
+@-webkit-keyframes blink {
+0% { opacity: 0; }
+}
+
+#clk{
+
+  position:absolute;
+	top: 4px;
+right: 360px;
+}
+
+#textclk{
+  position:absolute;
+	top: 10px;
+right:30px;
+width: 160px;
+}
+
+#red {
+  width: 22px;
+  height: 3px;
+  top: 54px;
+right:390px;
+  background-color: red;
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+position:absolute;
+}
+
+#green{
+width: 18px;
+  height: 3px;
+  top: 50px;
+right: 389px;
+  background-color: green;
+  -webkit-transform: rotate(30deg);
+  transform: rotate(30deg);
+position:absolute;
+display: none;
+}
+
+#b1{
+	position:absolute;
+	top: 354px;
+right: 345px;
+  cursor:pointer;
+    
+    
+}
+
+#b2
+{
+position: absolute;
+
+top: 412px;
+right: 345px;
+display:block;
+cursor:pointer;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+
+#b3
+{
+
+  position: absolute;
+top: 446px;
+right:345px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+cursor:pointer;
+}
+
+#b4
+{
+
+position: absolute;
+
+top: 478px;
+right: 345px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+cursor:pointer;
+}
+
+
+#b5
+{
+
+position: absolute;
+
+top: 512px;
+right: 345px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+#y1{
+	position: absolute;
+	top:115px;
+    /*right:10px;*/
+    visibility:hidden;
+    
+    
+    
+    
+    
+}
+
+#loff1{
+  position:absolute;
+  top:360px;
+  right:160px;
+  visibility:block;
+}
+#lon1{
+  position:absolute;
+  top:362px;
+  right:158px;
+  visibility:hidden;
+}
+
+#loff2{
+  position:absolute;
+  top:360px;
+  right:60px;
+  visibility:block;
+}
+#lon2{
+  position:absolute;
+  top:362px;
+  right:58px;
+  visibility:hidden;
+}
+
+
+
+
+
+
+#b1r
+{
+position: absolute;
+top: 500px;
+right: 495px;
+display:none;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b1g
+{
+position: absolute;
+top: 500px;
+right: 495px;
+display:block;
+}
+
+#b2r
+{
+position: absolute;
+
+top: 585px;
+right: 490px;
+display:block;
+cursor:pointer;
+/*bottom: 335px;
+right: 1058px;*/
+
+}
+#b2g
+{
+
+position: absolute;
+top: 585px;
+right: 490px;
+display:none;
+cursor:pointer;
+}
+
+#b3r
+{
+
+  position: absolute;
+top: 626px;
+right: 495px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+cursor:pointer;
+}
+#b3g
+{
+
+position: absolute;
+top: 626px;
+right: 495px;
+display:none;
+cursor:pointer;
+}
+
+#b4r
+{
+
+position: absolute;
+
+top:672px;
+right:495px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+cursor:pointer;
+}
+#b4g
+{
+
+position: absolute;
+top: 672px;
+right: 495px;
+display:none;
+cursor:pointer;
+}
+
+#b5r
+{
+
+position: absolute;
+
+top: 722px;
+right: 495px;
+display:block;
+/*bottom: 335px;
+right: 1058px;*/
+cursor:pointer;
+}
+#b5g
+{
+
+position: absolute;
+top: 722px;
+right: 495px;
+display:none;
+cursor:pointer;
+}
+
+
+
