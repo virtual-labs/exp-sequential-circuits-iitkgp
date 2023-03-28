@@ -1,0 +1,391 @@
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8a/addtbl_exp8a.js
+  10:5   warning  'clmns' is defined but never used                no-unused-vars
+  10:12  warning  'vlt' is defined but never used                  no-unused-vars
+  10:17  warning  'columns' is defined but never used              no-unused-vars
+  10:26  warning  'rest' is defined but never used                 no-unused-vars
+  11:5   warning  'dataPoints' is assigned a value but never used  no-unused-vars
+  13:5   warning  'table' is already defined                       no-redeclare
+  13:12  warning  'rows' is defined but never used                 no-unused-vars
+  13:18  warning  'switching' is defined but never used            no-unused-vars
+  13:29  warning  'i' is defined but never used                    no-unused-vars
+  13:32  warning  'x' is defined but never used                    no-unused-vars
+  13:35  warning  'y' is defined but never used                    no-unused-vars
+  13:38  warning  'shouldSwitch' is defined but never used         no-unused-vars
+  14:10  warning  'srintbl' is defined but never used              no-unused-vars
+  18:12  warning  'clkp' is not defined                            no-undef
+  20:12  warning  'sr' is not defined                              no-undef
+  21:12  warning  'sr' is not defined                              no-undef
+  24:12  warning  'qq1' is not defined                             no-undef
+  25:12  warning  'qq1' is not defined                             no-undef
+  27:12  warning  'action' is not defined                          no-undef
+  49:15  warning  'srplot' is defined but never used               no-unused-vars
+  52:9   warning  'plotgraph' is not defined                       no-undef
+  53:9   warning  'splot' is not defined                           no-undef
+  54:9   warning  'rplot' is not defined                           no-undef
+  55:9   warning  'qplot' is not defined                           no-undef
+  56:9   warning  'qbarplot' is not defined                        no-undef
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8a/datetime_show_exp8.js
+   6:5   warning  'day' is assigned a value but never used  no-unused-vars
+   8:5   warning  'min' is assigned a value but never used  no-unused-vars
+  10:10  warning  'pgload' is defined but never used        no-unused-vars
+  35:5   warning  't' is assigned a value but never used    no-unused-vars
+  43:26  warning  Unnecessary semicolon                     no-extra-semi
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8a/graphchartjs.js
+   12:10  warning  'plotgraph' is defined but never used  no-unused-vars
+   13:3   warning  'CanvasJS' is not defined              no-undef
+   20:19  warning  'CanvasJS' is not defined              no-undef
+   38:7   warning  Duplicate key 'lineThickness'          no-dupe-keys
+   46:7   warning  Duplicate key 'lineThickness'          no-dupe-keys
+   71:10  warning  'splot' is defined but never used      no-unused-vars
+   73:43  warning  'table' is not defined                 no-undef
+   74:16  warning  'table' is not defined                 no-undef
+   80:20  warning  'CanvasJS' is not defined              no-undef
+  120:10  warning  'rplot' is defined but never used      no-unused-vars
+  122:43  warning  'table' is not defined                 no-undef
+  123:16  warning  'table' is not defined                 no-undef
+  129:20  warning  'CanvasJS' is not defined              no-undef
+  163:10  warning  'qplot' is defined but never used      no-unused-vars
+  164:43  warning  'table' is not defined                 no-undef
+  165:16  warning  'table' is not defined                 no-undef
+  172:20  warning  'CanvasJS' is not defined              no-undef
+  205:10  warning  'qbarplot' is defined but never used   no-unused-vars
+  206:43  warning  'table' is not defined                 no-undef
+  207:16  warning  'table' is not defined                 no-undef
+  213:21  warning  'CanvasJS' is not defined              no-undef
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8a/grid_axis_sr.js
+   28:14  warning  'x' is not defined                           no-undef
+   28:18  warning  'x' is not defined                           no-undef
+   28:28  warning  'x' is not defined                           no-undef
+   29:25  warning  'x' is not defined                           no-undef
+   30:25  warning  'x' is not defined                           no-undef
+   33:18  warning  'y' is not defined                           no-undef
+   33:22  warning  'y' is not defined                           no-undef
+   33:33  warning  'y' is not defined                           no-undef
+   34:32  warning  'y' is not defined                           no-undef
+   35:37  warning  'y' is not defined                           no-undef
+   51:14  warning  'clockstop' is defined but never used        no-unused-vars
+   63:14  warning  'clockpulse' is defined but never used       no-unused-vars
+  113:10  warning  'x' is not defined                           no-undef
+  113:14  warning  'x' is not defined                           no-undef
+  113:24  warning  'x' is not defined                           no-undef
+  114:21  warning  'x' is not defined                           no-undef
+  115:21  warning  'x' is not defined                           no-undef
+  117:14  warning  'y' is not defined                           no-undef
+  117:18  warning  'y' is not defined                           no-undef
+  117:29  warning  'y' is not defined                           no-undef
+  118:28  warning  'y' is not defined                           no-undef
+  119:33  warning  'y' is not defined                           no-undef
+  134:14  warning  'clockpulses1' is defined but never used     no-unused-vars
+  166:14  warning  'clockpulses0' is defined but never used     no-unused-vars
+  204:18  warning  'drawGridr' is defined but never used        no-unused-vars
+  211:14  warning  'x' is not defined                           no-undef
+  211:18  warning  'x' is not defined                           no-undef
+  211:28  warning  'x' is not defined                           no-undef
+  212:25  warning  'x' is not defined                           no-undef
+  213:25  warning  'x' is not defined                           no-undef
+  215:18  warning  'y' is not defined                           no-undef
+  215:22  warning  'y' is not defined                           no-undef
+  215:33  warning  'y' is not defined                           no-undef
+  216:32  warning  'y' is not defined                           no-undef
+  217:37  warning  'y' is not defined                           no-undef
+  227:18  warning  'clockpulser1' is defined but never used     no-unused-vars
+  266:18  warning  'clockpulser0' is defined but never used     no-unused-vars
+  308:18  warning  'x' is not defined                           no-undef
+  308:22  warning  'x' is not defined                           no-undef
+  308:32  warning  'x' is not defined                           no-undef
+  309:29  warning  'x' is not defined                           no-undef
+  310:29  warning  'x' is not defined                           no-undef
+  312:22  warning  'y' is not defined                           no-undef
+  312:26  warning  'y' is not defined                           no-undef
+  312:37  warning  'y' is not defined                           no-undef
+  313:36  warning  'y' is not defined                           no-undef
+  314:41  warning  'y' is not defined                           no-undef
+  324:26  warning  'clockpulseq1' is defined but never used     no-unused-vars
+  356:26  warning  'clockpulseq0' is defined but never used     no-unused-vars
+  397:10  warning  'x' is not defined                           no-undef
+  397:14  warning  'x' is not defined                           no-undef
+  397:24  warning  'x' is not defined                           no-undef
+  398:22  warning  'x' is not defined                           no-undef
+  399:22  warning  'x' is not defined                           no-undef
+  401:14  warning  'y' is not defined                           no-undef
+  401:18  warning  'y' is not defined                           no-undef
+  401:29  warning  'y' is not defined                           no-undef
+  402:29  warning  'y' is not defined                           no-undef
+  403:34  warning  'y' is not defined                           no-undef
+  413:10  warning  'clockpulseqbar0' is defined but never used  no-unused-vars
+  444:10  warning  'clockpulseqbar1' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8a/ledonoff_exp8p1.js
+    6:9   warning  'vcc1' is defined but never used             no-unused-vars
+    6:15  warning  'vcc2' is defined but never used             no-unused-vars
+    6:21  warning  'gnd1' is defined but never used             no-unused-vars
+    6:27  warning  'gnd2' is defined but never used             no-unused-vars
+    7:9   warning  'S' is assigned a value but never used       no-unused-vars
+    7:12  warning  'R' is assigned a value but never used       no-unused-vars
+    7:15  warning  'clkp' is assigned a value but never used    no-unused-vars
+    8:9   warning  'sr' is assigned a value but never used      no-unused-vars
+    9:9   warning  'qq1' is assigned a value but never used     no-unused-vars
+   10:9   warning  'action' is assigned a value but never used  no-unused-vars
+  240:18  warning  'a1' is defined but never used               no-unused-vars
+  263:18  warning  'a2' is defined but never used               no-unused-vars
+  271:13  warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  282:18  warning  'a3' is defined but never used               no-unused-vars
+  300:18  warning  'a4' is defined but never used               no-unused-vars
+  319:18  warning  'a5' is defined but never used               no-unused-vars
+  338:18  warning  'a6' is defined but never used               no-unused-vars
+  358:18  warning  'clockstrt' is defined but never used        no-unused-vars
+  386:18  warning  'graphclose' is defined but never used       no-unused-vars
+  393:18  warning  'clockstop' is defined but never used        no-unused-vars
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8b/addtbl_exp8b.js
+  10:5   warning  'clmns' is defined but never used                no-unused-vars
+  10:12  warning  'vlt' is defined but never used                  no-unused-vars
+  10:17  warning  'columns' is defined but never used              no-unused-vars
+  10:26  warning  'rest' is defined but never used                 no-unused-vars
+  11:5   warning  'dataPoints' is assigned a value but never used  no-unused-vars
+  13:5   warning  'table' is already defined                       no-redeclare
+  13:12  warning  'rows' is defined but never used                 no-unused-vars
+  13:18  warning  'switching' is defined but never used            no-unused-vars
+  13:29  warning  'i' is defined but never used                    no-unused-vars
+  13:32  warning  'x' is defined but never used                    no-unused-vars
+  13:35  warning  'y' is defined but never used                    no-unused-vars
+  13:38  warning  'shouldSwitch' is defined but never used         no-unused-vars
+  14:10  warning  'jkintbl' is defined but never used              no-unused-vars
+  18:12  warning  'clkp' is not defined                            no-undef
+  20:12  warning  'jk' is not defined                              no-undef
+  21:12  warning  'jk' is not defined                              no-undef
+  24:12  warning  'qq1' is not defined                             no-undef
+  25:12  warning  'qq1' is not defined                             no-undef
+  27:12  warning  'action' is not defined                          no-undef
+  50:15  warning  'jkplot' is defined but never used               no-unused-vars
+  52:8   warning  'plotgraph' is not defined                       no-undef
+  53:9   warning  'jplot' is not defined                           no-undef
+  54:8   warning  'kplot' is not defined                           no-undef
+  55:9   warning  'qplot' is not defined                           no-undef
+  56:9   warning  'qbarplot' is not defined                        no-undef
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8b/graphchartjs_jk.js
+   12:10  warning  'plotgraph' is defined but never used  no-unused-vars
+   20:19  warning  'CanvasJS' is not defined              no-undef
+   72:10  warning  'jplot' is defined but never used      no-unused-vars
+   74:43  warning  'table' is not defined                 no-undef
+   75:16  warning  'table' is not defined                 no-undef
+   81:20  warning  'CanvasJS' is not defined              no-undef
+  124:10  warning  'kplot' is defined but never used      no-unused-vars
+  126:43  warning  'table' is not defined                 no-undef
+  127:16  warning  'table' is not defined                 no-undef
+  133:20  warning  'CanvasJS' is not defined              no-undef
+  170:10  warning  'qplot' is defined but never used      no-unused-vars
+  171:43  warning  'table' is not defined                 no-undef
+  172:16  warning  'table' is not defined                 no-undef
+  179:20  warning  'CanvasJS' is not defined              no-undef
+  215:10  warning  'qbarplot' is defined but never used   no-unused-vars
+  216:43  warning  'table' is not defined                 no-undef
+  217:16  warning  'table' is not defined                 no-undef
+  223:21  warning  'CanvasJS' is not defined              no-undef
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8b/grid_axis_jk.js
+    7:14  warning  'drawGridjk' is defined but never used  no-unused-vars
+   17:10  warning  'x' is not defined                      no-undef
+   17:14  warning  'x' is not defined                      no-undef
+   17:24  warning  'x' is not defined                      no-undef
+   18:20  warning  'x' is not defined                      no-undef
+   19:20  warning  'x' is not defined                      no-undef
+   21:14  warning  'y' is not defined                      no-undef
+   21:18  warning  'y' is not defined                      no-undef
+   21:29  warning  'y' is not defined                      no-undef
+   22:27  warning  'y' is not defined                      no-undef
+   23:32  warning  'y' is not defined                      no-undef
+   33:13  warning  'canvas' is already defined             no-redeclare
+   34:9   warning  'ctx' is already defined                no-redeclare
+   39:10  warning  'x' is not defined                      no-undef
+   39:14  warning  'x' is not defined                      no-undef
+   39:24  warning  'x' is not defined                      no-undef
+   40:20  warning  'x' is not defined                      no-undef
+   41:20  warning  'x' is not defined                      no-undef
+   43:14  warning  'y' is not defined                      no-undef
+   43:18  warning  'y' is not defined                      no-undef
+   43:29  warning  'y' is not defined                      no-undef
+   44:27  warning  'y' is not defined                      no-undef
+   45:32  warning  'y' is not defined                      no-undef
+   54:13  warning  'canvas' is already defined             no-redeclare
+   55:13  warning  'ctx' is already defined                no-redeclare
+   60:14  warning  'x' is not defined                      no-undef
+   60:18  warning  'x' is not defined                      no-undef
+   60:28  warning  'x' is not defined                      no-undef
+   61:24  warning  'x' is not defined                      no-undef
+   62:24  warning  'x' is not defined                      no-undef
+   64:18  warning  'y' is not defined                      no-undef
+   64:22  warning  'y' is not defined                      no-undef
+   64:33  warning  'y' is not defined                      no-undef
+   65:31  warning  'y' is not defined                      no-undef
+   66:36  warning  'y' is not defined                      no-undef
+   76:17  warning  'canvas' is already defined             no-redeclare
+   77:17  warning  'ctx' is already defined                no-redeclare
+   82:18  warning  'x' is not defined                      no-undef
+   82:22  warning  'x' is not defined                      no-undef
+   82:32  warning  'x' is not defined                      no-undef
+   83:28  warning  'x' is not defined                      no-undef
+   84:28  warning  'x' is not defined                      no-undef
+   86:22  warning  'y' is not defined                      no-undef
+   86:26  warning  'y' is not defined                      no-undef
+   86:37  warning  'y' is not defined                      no-undef
+   87:35  warning  'y' is not defined                      no-undef
+   88:40  warning  'y' is not defined                      no-undef
+   98:21  warning  'canvas' is already defined             no-redeclare
+   99:9   warning  'ctx' is already defined                no-redeclare
+  104:10  warning  'x' is not defined                      no-undef
+  104:14  warning  'x' is not defined                      no-undef
+  104:24  warning  'x' is not defined                      no-undef
+  105:20  warning  'x' is not defined                      no-undef
+  106:20  warning  'x' is not defined                      no-undef
+  108:14  warning  'y' is not defined                      no-undef
+  108:18  warning  'y' is not defined                      no-undef
+  108:29  warning  'y' is not defined                      no-undef
+  109:27  warning  'y' is not defined                      no-undef
+  110:32  warning  'y' is not defined                      no-undef
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8b/ledonoff_exp8p2.js
+    5:9   warning  'vcc1' is defined but never used             no-unused-vars
+    5:15  warning  'vcc2' is defined but never used             no-unused-vars
+    5:21  warning  'gnd1' is defined but never used             no-unused-vars
+    5:27  warning  'gnd2' is defined but never used             no-unused-vars
+    6:9   warning  'J' is assigned a value but never used       no-unused-vars
+    6:12  warning  'K' is assigned a value but never used       no-unused-vars
+    6:15  warning  'clkp' is assigned a value but never used    no-unused-vars
+    7:9   warning  'jk' is assigned a value but never used      no-unused-vars
+    8:9   warning  'qq1' is assigned a value but never used     no-unused-vars
+    9:9   warning  'action' is assigned a value but never used  no-unused-vars
+  245:14  warning  'a1' is defined but never used               no-unused-vars
+  268:14  warning  'a2' is defined but never used               no-unused-vars
+  287:14  warning  'a3' is defined but never used               no-unused-vars
+  305:14  warning  'a4' is defined but never used               no-unused-vars
+  324:14  warning  'a5' is defined but never used               no-unused-vars
+  343:14  warning  'a6' is defined but never used               no-unused-vars
+  363:18  warning  'clockstrt' is defined but never used        no-unused-vars
+  364:17  warning  'image' is assigned a value but never used   no-unused-vars
+  374:8   warning  'plotgraph' is not defined                   no-undef
+  378:18  warning  'clockstop' is defined but never used        no-unused-vars
+  386:18  warning  'graphclosejk' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8c/addtbl_exp8c.js
+  10:5   warning  'clmns' is defined but never used                no-unused-vars
+  10:12  warning  'vlt' is defined but never used                  no-unused-vars
+  10:17  warning  'columns' is defined but never used              no-unused-vars
+  10:26  warning  'rest' is defined but never used                 no-unused-vars
+  11:5   warning  'dataPoints' is assigned a value but never used  no-unused-vars
+  13:5   warning  'table' is already defined                       no-redeclare
+  13:12  warning  'rows' is defined but never used                 no-unused-vars
+  13:18  warning  'switching' is defined but never used            no-unused-vars
+  13:29  warning  'i' is defined but never used                    no-unused-vars
+  13:32  warning  'x' is defined but never used                    no-unused-vars
+  13:35  warning  'y' is defined but never used                    no-unused-vars
+  13:38  warning  'shouldSwitch' is defined but never used         no-unused-vars
+  14:10  warning  'dintbl' is defined but never used               no-unused-vars
+  18:12  warning  'clkp' is not defined                            no-undef
+  20:12  warning  'dt' is not defined                              no-undef
+  23:12  warning  'qq1' is not defined                             no-undef
+  24:12  warning  'qq1' is not defined                             no-undef
+  26:12  warning  'action' is not defined                          no-undef
+  49:15  warning  'dplot' is defined but never used                no-unused-vars
+  51:8   warning  'plotgraph' is not defined                       no-undef
+  52:9   warning  'plotd' is not defined                           no-undef
+  53:9   warning  'qplot' is not defined                           no-undef
+  54:9   warning  'qbarplot' is not defined                        no-undef
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8c/graphchartjs_d.js
+   12:10  warning  'plotgraph' is defined but never used  no-unused-vars
+   20:19  warning  'CanvasJS' is not defined              no-undef
+   72:10  warning  'plotd' is defined but never used      no-unused-vars
+   74:43  warning  'table' is not defined                 no-undef
+   75:16  warning  'table' is not defined                 no-undef
+   81:20  warning  'CanvasJS' is not defined              no-undef
+  126:10  warning  'qplot' is defined but never used      no-unused-vars
+  127:43  warning  'table' is not defined                 no-undef
+  128:16  warning  'table' is not defined                 no-undef
+  135:20  warning  'CanvasJS' is not defined              no-undef
+  171:10  warning  'qbarplot' is defined but never used   no-unused-vars
+  172:43  warning  'table' is not defined                 no-undef
+  173:16  warning  'table' is not defined                 no-undef
+  179:21  warning  'CanvasJS' is not defined              no-undef
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8c/grid_axis_d.js
+   7:14  warning  'drawGridd' is defined but never used  no-unused-vars
+  17:10  warning  'x' is not defined                     no-undef
+  17:14  warning  'x' is not defined                     no-undef
+  17:24  warning  'x' is not defined                     no-undef
+  18:20  warning  'x' is not defined                     no-undef
+  19:20  warning  'x' is not defined                     no-undef
+  21:14  warning  'y' is not defined                     no-undef
+  21:18  warning  'y' is not defined                     no-undef
+  21:29  warning  'y' is not defined                     no-undef
+  22:27  warning  'y' is not defined                     no-undef
+  23:32  warning  'y' is not defined                     no-undef
+  33:13  warning  'canvas' is already defined            no-redeclare
+  34:9   warning  'ctx' is already defined               no-redeclare
+  39:10  warning  'x' is not defined                     no-undef
+  39:14  warning  'x' is not defined                     no-undef
+  39:24  warning  'x' is not defined                     no-undef
+  40:20  warning  'x' is not defined                     no-undef
+  41:20  warning  'x' is not defined                     no-undef
+  43:14  warning  'y' is not defined                     no-undef
+  43:18  warning  'y' is not defined                     no-undef
+  43:29  warning  'y' is not defined                     no-undef
+  44:27  warning  'y' is not defined                     no-undef
+  45:32  warning  'y' is not defined                     no-undef
+  57:17  warning  'canvas' is already defined            no-redeclare
+  58:17  warning  'ctx' is already defined               no-redeclare
+  63:18  warning  'x' is not defined                     no-undef
+  63:22  warning  'x' is not defined                     no-undef
+  63:32  warning  'x' is not defined                     no-undef
+  64:28  warning  'x' is not defined                     no-undef
+  65:28  warning  'x' is not defined                     no-undef
+  67:22  warning  'y' is not defined                     no-undef
+  67:26  warning  'y' is not defined                     no-undef
+  67:37  warning  'y' is not defined                     no-undef
+  68:35  warning  'y' is not defined                     no-undef
+  69:40  warning  'y' is not defined                     no-undef
+  79:21  warning  'canvas' is already defined            no-redeclare
+  80:9   warning  'ctx' is already defined               no-redeclare
+  85:10  warning  'x' is not defined                     no-undef
+  85:14  warning  'x' is not defined                     no-undef
+  85:24  warning  'x' is not defined                     no-undef
+  86:20  warning  'x' is not defined                     no-undef
+  87:20  warning  'x' is not defined                     no-undef
+  89:14  warning  'y' is not defined                     no-undef
+  89:18  warning  'y' is not defined                     no-undef
+  89:29  warning  'y' is not defined                     no-undef
+  90:27  warning  'y' is not defined                     no-undef
+  91:32  warning  'y' is not defined                     no-undef
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/exp8c/ledonoff_exp8p3.js
+    7:9   warning  'vcc1' is defined but never used             no-unused-vars
+    7:15  warning  'vcc2' is defined but never used             no-unused-vars
+    7:21  warning  'gnd1' is defined but never used             no-unused-vars
+    7:27  warning  'gnd2' is defined but never used             no-unused-vars
+    8:9   warning  'D' is assigned a value but never used       no-unused-vars
+    9:9   warning  'dt' is assigned a value but never used      no-unused-vars
+   10:9   warning  'qq1' is assigned a value but never used     no-unused-vars
+   11:9   warning  'action' is assigned a value but never used  no-unused-vars
+   12:9   warning  'clkp' is assigned a value but never used    no-unused-vars
+  215:18  warning  'a1' is defined but never used               no-unused-vars
+  223:10  warning  'd' is not defined                           no-undef
+  238:18  warning  'a2' is defined but never used               no-unused-vars
+  257:18  warning  'a3' is defined but never used               no-unused-vars
+  275:18  warning  'a4' is defined but never used               no-unused-vars
+  294:18  warning  'a5' is defined but never used               no-unused-vars
+  319:18  warning  'clockstrt' is defined but never used        no-unused-vars
+  330:18  warning  'clockstop' is defined but never used        no-unused-vars
+  337:18  warning  'graphclose' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-sequential-circuits-iitkgp/exp-sequential-circuits-iitkgp/experiment/simulation/js/main.js
+   2:11  warning  'showDiv' is defined but never used  no-unused-vars
+  30:1   warning  Mixed spaces and tabs                no-mixed-spaces-and-tabs
+
+✖ 359 problems (0 errors, 359 warnings)
+  0 errors and 1 warning potentially fixable with the `--fix` option.
+
