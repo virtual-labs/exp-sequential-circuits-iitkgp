@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "How many flip-flops are in the 7475 IC?",
+      "answers": {
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "8"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which is not an Altera primitive port identifier?",
+      "answers": {
+        "a": "clk",
+        "b": "ena",
+        "c": "clr",
+        "d": "prn"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "One example of the use of an S-R flip-flop is as a(n):",
+      "answers": {
+        "a": "racer",
+        "b": "astable oscillator",
+        "c": "binary storage register",
+        "d": "transition pulse generator"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
